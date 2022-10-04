@@ -1,6 +1,6 @@
 ### Hi there 👋
 [Telegram](https://t.me/Perceptor89)  
-[e-mail]<andreyfominykh@gmail.com>
+[e-mail](mailto:andreyfominykh@gmail.com)
 
 <!--
 **Perceptor89/Perceptor89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
